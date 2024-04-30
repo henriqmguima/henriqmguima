@@ -6,7 +6,7 @@ Tenho 20 anos e sou formado em Técnico em Informática. Atualmente, estou cursa
 
 ### 🛠️ Habilidades
 
-- Linguagens: C, PHP, JavaScript
+- Linguagens: C, PHP, JavaScript, Python, Java
 - Banco de Dados: MySQL
 - Web: HTML, CSS
 - 🇬🇧 Inglês: Nível intermediário para leitura.
@@ -29,7 +29,7 @@ I'm 20 years old and hold a degree in Computer Science. Currently, I'm pursuing 
 
 ### 🛠️ Skills
 
-- Languages: C, PHP, JavaScript
+- Languages: C, PHP, JavaScript, Python, Java
 - Database: MySQL
 - Web: HTML, CSS
 - 🇬🇧 English: Intermediate level for reading.
